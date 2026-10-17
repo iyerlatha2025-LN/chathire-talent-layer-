@@ -1,4 +1,4 @@
-# chathire-talent-layer-
+# Chathire-talent-layer- 
 # Zero-Intrusion Data Governance & Skill Certification Layer
 
 A highly secure, decoupled data orchestration framework designed to validate human telemetry, score true capability, and inject structured profiles natively into enterprise databases.
