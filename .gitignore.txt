@@ -1,0 +1,11 @@
+# Ignore local environment variables and database keys
+.env
+*.env
+
+# Ignore compiled binary folders and local background databases
+bin/
+mock_workday_gate.py
+
+# Ignore local python caches
+__pycache__/
+*.pyc
